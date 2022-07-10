@@ -9,7 +9,7 @@
 
 # !git init
 
-# !git add -A #./data/*  *.md *.py
+# !git add -A
 
 # +
 # #!rm -rf *.html
@@ -17,9 +17,11 @@
 
 # !git rm --cached  .ipynb_checkpoints/* 
 
-# !git commit -m "add houji" 
+# !git commit -m "update " 
 
 # !git remote add origin git@github.com:lyhue1991/eat_pytorch_in_20_days.git
+
+# !git pull origin master 
 
 # !ssh -T git@github.com:lyhue1991/eat_pytorch_in_20_days.git
 
