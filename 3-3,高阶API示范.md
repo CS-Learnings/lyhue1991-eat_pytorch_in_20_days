@@ -169,7 +169,7 @@ Estimated Total Size (MB): 0.000088
 ```
 
 ```python
-model.
+
 ```
 
 **3，训练模型**
